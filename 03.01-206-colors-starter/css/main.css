@@ -63,16 +63,19 @@ footer {
     background-color: blue;
   }
 
-  #column-1 {
-    background-color: blue;
-  }
+    #column-1 {
+        background-color: blueviolet;
+        width: 50%;
+    }
 
     #column-2 {
-        background-color: blue;
+        background-color: darkslategrey;
+        width: 50%;
     }
 
     #column-3 {
-        background-color: blue;
+        background-color: greenyellow;
+        width: 50%;
     }
 
     footer {
@@ -89,19 +92,22 @@ footer {
   }
 
     #column-1 {
-        background-color: mediumvioletred;
+        background-color: indianred;
+        width: 33.3%;
     }
 
     #column-2 {
-        background-color: mediumvioletred;
+        background-color: palevioletred;
+        width: 33.3%;
     }
 
     #column-3 {
-        background-color: mediumvioletred;
+        background-color: darkred;
+        width: 33.3%;
     }
 
     footer {
-        background-color: mediumvioletred;
+        background-color: palegreen;
     }
    
 }

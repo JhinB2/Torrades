@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\03.01-206-colors-starter",
     "\\03.01-206-colors-starter\\css",
-    "\\04.02-206-font-colors-starter",
-    "\\04.02-206-font-colors-starter\\css"
+    "\\04.02-206-font-colors-starter\\css",
+    "\\06.03-206-flexbox-customize-starter",
+    "\\06.03-206-flexbox-customize-starter\\css",
+    "\\6.02-206-center-flexbox-starter\\css"
   ],
-  "SelectedNode": "\\03.01-206-colors-starter\\css\\main.css",
+  "SelectedNode": "\\06.03-206-flexbox-customize-starter\\index.html",
   "PreviewInSolutionExplorer": false
 }
